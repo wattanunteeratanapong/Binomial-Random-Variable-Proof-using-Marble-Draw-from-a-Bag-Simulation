@@ -1,4 +1,4 @@
-# Binomial-Random-Variable-Proof-using-Marble-Draws-from-a-Bag
+# Binomial-Random-Variable-Proof-using-Marble-Draw-from-a-Bag
 The purpose of this repository is to see if this guy, the "Binomial Random Variable" is capping us or not <br>
 
 ## Overview & Control Variable
