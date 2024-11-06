@@ -11,7 +11,7 @@ P(k n) is a probability of success k time in n trial <br>
 P(k n) = nCk × pᵏ × (1-p)ⁿ⁻ᵏ <br>
 
 ### First Scenerio
-Red Green Green <br>
+Bag : Red Green Green <br>
 Success(k) is when drawing Red Marbel <br>
 P(0 10) &nbsp;&nbsp;= 10C0 (1/3)⁰(2/3)¹⁰ &nbsp;           ≈ 0.01734153 <br>
 P(1 10) &nbsp;&nbsp;= 10C1 (1/3)¹(2/3)⁹ &nbsp;&nbsp;&nbsp;≈ 0.08670765 <br>
@@ -26,7 +26,7 @@ P(9 10) &nbsp;&nbsp;= 10C9 (1/3)⁹(2/3)¹ &nbsp;&nbsp;&nbsp;≈ 0.00033870 <br>
 P(10 10) = 10C10 (1/3)¹⁰(2/3)⁰                            ≈ 0.00001694 <br>
 
 ### Second Scenerio
-Red Green Green Green <br>
+Bag : Red Green Green Green <br>
 Success(k) is when drawing Red Marbel <br>
 P(0 10) &nbsp;&nbsp;= 10C0 (1/4)⁰(3/4)¹⁰ &nbsp;           ≈ 0.05631351 <br>
 P(1 10) &nbsp;&nbsp;= 10C1 (1/4)¹(3/4)⁹ &nbsp;&nbsp;&nbsp;≈ 0.18771172 <br>
