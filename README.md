@@ -40,7 +40,7 @@ P(8 10) &nbsp;&nbsp;= 10C8 (1/4)⁸(3/4)² &nbsp;&nbsp;&nbsp;≈ 0.00038624 <br>
 P(9 10) &nbsp;&nbsp;= 10C9 (1/4)⁹(3/4)¹ &nbsp;&nbsp;&nbsp;≈ 0.00002861 <br>
 P(10 10) = 10C10 (1/4)¹⁰(3/4)⁰                            ≈ 0.00000095 <br>
 
-## Result
+## Result from Simulation
 ### First Scenerio
 
 ### Second Scenerio
