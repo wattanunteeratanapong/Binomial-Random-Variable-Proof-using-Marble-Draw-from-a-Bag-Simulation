@@ -1,10 +1,12 @@
 # Binomial-Random-Variable-Proof-using-Marble-Draw-from-a-Bag-Simulation
-The purpose of this repository is to see if this guy, the "Binomial Random Variable" is capping us or not <br>
+![S__120233986](https://github.com/user-attachments/assets/2cdd61ef-869e-4ea0-9d87-433164529191)
+The purpose of this repository is to see if this guy, the "Binomial Random Variable" is capping us or not <br><br>
 
 ## Overview & Control Variable
 - In this experiment number of trial(n) in each scenerio is 10
 - When we pulled the marble out of the bag, we just put it back in, so that it could be an Independent Trial
 - Independent Trail make P(success) every trial constant
+<br>
 
 ## Hypothesis
 P(k n) is a probability of success k time in n trial <br>
@@ -42,7 +44,14 @@ P(10 10) = 10C10 (1/4)¹⁰(3/4)⁰                            ≈ 0.00000095 <b
 
 ## Result from Simulation
 ### First Scenerio
+<img src="https://github.com/user-attachments/assets/7f2be418-9c6e-4935-b412-58442843101e" width="35%" height="300" alt="Image 1">
+<img src="https://github.com/user-attachments/assets/838d09ab-2caf-4e79-9f4f-c84a70959174" width="35%" height="300" alt="Image 2">
+<img src="https://github.com/user-attachments/assets/aaadb887-ec81-45ef-b85a-b67dd425d027" width="20%" height="300" alt="Image 3">
 
 ### Second Scenerio
+<img src="https://github.com/user-attachments/assets/61883594-d729-412e-b2cb-6d3e5717e0ec" width="35%" height="300" alt="Image 1">
+<img src="https://github.com/user-attachments/assets/67c941ed-f4c4-4ebb-96e1-48223afa92ca" width="35%" height="300" alt="Image 2">
+<img src="https://github.com/user-attachments/assets/2c8ca9f6-d791-40ed-a188-1dd5cb5adc38" width="20%" height="300" alt="Image 3">
+
 
 
