@@ -44,9 +44,9 @@ P(10 10) = 10C10 (1/4)¹⁰(3/4)⁰                            ≈ 0.00000095 <b
 
 ## Result from Simulation
 ### First Scenerio
-<img src="https://github.com/user-attachments/assets/7f2be418-9c6e-4935-b412-58442843101e" width="35%" height="300" alt="Image 1">
-<img src="https://github.com/user-attachments/assets/838d09ab-2caf-4e79-9f4f-c84a70959174" width="35%" height="300" alt="Image 2">
-<img src="https://github.com/user-attachments/assets/aaadb887-ec81-45ef-b85a-b67dd425d027" width="20%" height="300" alt="Image 3">
+<img src="https://github.com/user-attachments/assets/5f9f731e-3ee7-4859-b954-17ea49e2ef93" width="35%" height="300" alt="Image 1">
+<img src="https://github.com/user-attachments/assets/508043df-37b1-411c-87e7-6da7190bbf29" width="35%" height="300" alt="Image 2">
+<img src="https://github.com/user-attachments/assets/c4d55467-7a35-49f4-bd20-1abc596d2f8f" width="20%" height="300" alt="Image 3">
 
 ### Second Scenerio
 <img src="https://github.com/user-attachments/assets/61883594-d729-412e-b2cb-6d3e5717e0ec" width="35%" height="300" alt="Image 1">
