@@ -5,7 +5,8 @@ The purpose of this repository is to see if this guy, the "Binomial Random Varia
 ## Overview & Control Variable
 - In this experiment number of trial(n) in each scenerio is 10
 - When we pulled the marble out of the bag, we just put it back in, so that it could be an Independent Trial
-- Independent Trail make P(success) every trial constant
+- P(success) every trial is constant (because we put marble back in the bag)
+- 10 Million time of simulation
 <br>
 
 ## Hypothesis
