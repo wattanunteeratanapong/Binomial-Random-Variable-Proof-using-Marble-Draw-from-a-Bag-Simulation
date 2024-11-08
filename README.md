@@ -1,4 +1,4 @@
-# Binomial-Random-Variable-Proof-using-Marble-Draw-from-a-Bag-Simulation
+# Binomial Random Variable Proof using Marble Draw from a Bag Simulation
 ![S__120233986](https://github.com/user-attachments/assets/2cdd61ef-869e-4ea0-9d87-433164529191)
 <img src="https://github.com/user-attachments/assets/c3ce8ec2-82fb-4f75-93a6-82768a2da719" width="100%" height="500" alt="Image 1">
 
