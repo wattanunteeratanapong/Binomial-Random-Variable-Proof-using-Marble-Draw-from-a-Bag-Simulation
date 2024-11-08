@@ -53,5 +53,6 @@ P(10 10) = 10C10 (1/4)¹⁰(3/4)⁰                            ≈ 0.00000095 <b
 <img src="https://github.com/user-attachments/assets/67c941ed-f4c4-4ebb-96e1-48223afa92ca" width="35%" height="300" alt="Image 2">
 <img src="https://github.com/user-attachments/assets/2c8ca9f6-d791-40ed-a188-1dd5cb5adc38" width="20%" height="300" alt="Image 3">
 
-
+## Conclusion
+Experimental probability and theoretical probability are very close. The "Binomial Random Variable" is accurate.
 
