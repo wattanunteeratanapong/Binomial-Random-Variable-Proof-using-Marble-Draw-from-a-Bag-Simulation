@@ -1,6 +1,8 @@
 # Binomial-Random-Variable-Proof-using-Marble-Draw-from-a-Bag-Simulation
 ![S__120233986](https://github.com/user-attachments/assets/2cdd61ef-869e-4ea0-9d87-433164529191)
-The purpose of this repository is to see if this guy, the "Binomial Random Variable" is capping us or not <br><br>
+<img src="https://github.com/user-attachments/assets/c3ce8ec2-82fb-4f75-93a6-82768a2da719" width="100%" height="500" alt="Image 1">
+
+The purpose of this repository is to see if this guy, the "Binomial Random Variable" is capping us or not. By using marbel draw from a bag to test. <br><br>
 
 ## Overview & Control Variable
 - In this experiment number of trial(n) in each scenerio is 10
@@ -14,6 +16,8 @@ P(k n) is a probability of success k time in n trial <br>
 P(k n) = nCk × pᵏ × (1-p)ⁿ⁻ᵏ <br>
 
 ### First Scenerio
+<img src="https://github.com/user-attachments/assets/4de41333-adc9-42fb-b239-f361b9764c7c" width="30%" height="120" alt="Image 1"> <br>
+
 Bag : Red Green Green <br>
 Success(k) is when drawing Red Marbel <br>
 P(0 10) &nbsp;&nbsp;= 10C0 (1/3)⁰(2/3)¹⁰ &nbsp;           ≈ 0.01734153 <br>
@@ -29,6 +33,8 @@ P(9 10) &nbsp;&nbsp;= 10C9 (1/3)⁹(2/3)¹ &nbsp;&nbsp;&nbsp;≈ 0.00033870 <br>
 P(10 10) = 10C10 (1/3)¹⁰(2/3)⁰                            ≈ 0.00001694 <br>
 
 ### Second Scenerio
+<img src="https://github.com/user-attachments/assets/031fb3d3-bb28-4d75-8bf7-c91a7d463911" width="30%" height="90" alt="Image 1"> <br>
+
 Bag : Red Green Green Green <br>
 Success(k) is when drawing Red Marbel <br>
 P(0 10) &nbsp;&nbsp;= 10C0 (1/4)⁰(3/4)¹⁰ &nbsp;           ≈ 0.05631351 <br>
