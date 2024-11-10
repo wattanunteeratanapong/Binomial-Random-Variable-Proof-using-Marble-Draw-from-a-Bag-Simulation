@@ -48,6 +48,7 @@ P(7 10) &nbsp;&nbsp;= 10C7 (1/4)⁷(3/4)³ &nbsp;&nbsp;&nbsp;≈ 0.00308990 &nbs
 P(8 10) &nbsp;&nbsp;= 10C8 (1/4)⁸(3/4)² &nbsp;&nbsp;&nbsp;≈ 0.00038624 &nbsp;(0.038624%)<br>
 P(9 10) &nbsp;&nbsp;= 10C9 (1/4)⁹(3/4)¹ &nbsp;&nbsp;&nbsp;≈ 0.00002861 &nbsp;(0.002861%)<br>
 P(10 10) = 10C10 (1/4)¹⁰(3/4)⁰                            ≈ 0.00000095 &nbsp;(0.000095%)<br>
+<br>
 
 ## Result from Simulation
 ### First Scenerio
@@ -59,7 +60,8 @@ P(10 10) = 10C10 (1/4)¹⁰(3/4)⁰                            ≈ 0.00000095 &n
 <img src="https://github.com/user-attachments/assets/61883594-d729-412e-b2cb-6d3e5717e0ec" width="35%" height="300" alt="Image 1">
 <img src="https://github.com/user-attachments/assets/67c941ed-f4c4-4ebb-96e1-48223afa92ca" width="35%" height="300" alt="Image 2">
 <img src="https://github.com/user-attachments/assets/2c8ca9f6-d791-40ed-a188-1dd5cb5adc38" width="20%" height="300" alt="Image 3">
+<br><br>
 
 ## Conclusion
-Experimental probability and theoretical probability are very close. The "Binomial Random Variable" is accurate.
+"Experimental Probability" and "Theoretical Probability" are very close. The "Binomial Random Variable" is accurate.
 
