@@ -12,7 +12,7 @@ The purpose of this repository is to see if this guy, the "Binomial Random Varia
 <br>
 
 ## Hypothesis
-P(k n) is a probability of success k time in n trial <br>
+P(k n) is a probability of success k time in n trial (order doesn't matter)<br>
 P(k n) = nCk × pᵏ × (1-p)ⁿ⁻ᵏ <br>
 
 ### First Scenerio
